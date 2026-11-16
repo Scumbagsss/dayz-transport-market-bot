@@ -55,9 +55,12 @@ flowchart LR
 
 These are **design considerations**, not a claim that the public skeleton implements them.
 
+For a detailed discussion of concurrency, authorization, audit events and failure scenarios, see the [engineering design notes](docs/ENGINEERING_NOTES.md).
+
 ## What is public?
 
 - [Architecture overview](docs/ARCHITECTURE.md)
+- [Engineering design notes](docs/ENGINEERING_NOTES.md) — conceptual state model and verification plan
 - [Interface signatures](src/public_interface.py) — **not runnable**
 - [Illustrative configuration](examples/config.example.jsonc) — no production IDs or credentials
 - [Publication notice](NOTICE.md)
