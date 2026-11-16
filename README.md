@@ -61,3 +61,5 @@ These are **design considerations**, not a claim that the public skeleton implem
 For **runnable Python** and CI examples, see [Ticket Workflow Backend](https://github.com/Scumbagsss/advanced-discord-ticket-bot) and [Server Monitoring Pipeline](https://github.com/Scumbagsss/dayz-server-monitor-bot).
 
 **Author:** [Scumbagsss](https://github.com/Scumbagsss) · Python Backend · Automation
+
+**Contact:** Discord — `scumbagsss` · Telegram — [@dilarion](https://t.me/dilarion).
