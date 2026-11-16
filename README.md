@@ -9,6 +9,10 @@
 
 > **Private-source portfolio case study.** This repository is not a runnable application. The interface skeleton in `src/public_interface.py` deliberately raises `NotImplementedError`; production code and customer data are not included.
 
+![Conceptual vehicle marketplace workflow](assets/marketplace-flow.svg)
+
+*Conceptual workflow illustration, not a claim about the exact states or database schema of the private deployment.*
+
 ## Why a marketplace needs backend workflows
 
 A Discord marketplace is more than posting sale messages. Sellers, buyers, moderators and owners need consistent rules for creating listings, checking ownership, reviewing submissions, reserving items and recording disputes.
